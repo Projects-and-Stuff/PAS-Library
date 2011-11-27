@@ -3,9 +3,9 @@
 
 This will be an ever-expanding collection of KiCad Libraries and Modules. Our goal is three-fold:
 
-* To improve upon the basic libraries provided with KiCad
-* To provide all of the libraries and modules we've created in one place
-* To support innovation by providing simple access to component symbols and footprints not currently available
+1 To improve upon the basic libraries provided with KiCad
+2 To provide all of the libraries and modules we've created in one place
+3 To support innovation by providing simple access to component symbols and footprints not currently available
 
 
 Current and Future Libraries:
