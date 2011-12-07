@@ -7,6 +7,7 @@ This will be an ever-expanding collection of KiCad Libraries and Modules. Our go
 2 To provide all of the libraries and modules we've created in one place
 3 To support innovation by providing simple access to component symbols and footprints not currently available
 
+---
 
 Current and Future Libraries:
 
@@ -26,3 +27,20 @@ Current and Future Modules:
 * 
 
 
+---
+
+Additional information, research, and notes can be found at http://www.projectsandstuff.com, or email us at support@projectsandstuff.com
+
+Let us know if you fork and make improvements. We'd be glad to consider merges that improve this project.
+
+---
+
+UPDATES:
+
+
+---
+
+CURRENT AUTHORS:
+
+> [Jack Linke](http://www.jacklinke.com)
+jacklinke@gmail.com
